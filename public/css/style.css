@@ -6,7 +6,7 @@
     --light: #DBE2EF;
     --lightest: #F9F7F7;
     --white: #ffffff;
-  }
+}
 
 
 /* homepage */
@@ -52,7 +52,7 @@ h1{
 }
 
 .overlay-text{
-    color: var(--lightest);
+    color: var(--white);
     font-size: 20px;
     position: absolute;
     top: 50%;
@@ -63,16 +63,12 @@ h1{
     text-align: center;
 }
 
-.overlay-text .date{
-    font-size: 30px;
-}
-
 /* top navigation */
 
 .topnav {
     overflow: hidden;
     font-family: 'Anton';
-    font-size: 22px;
+    font-size: 24px;
   }
 
 .topnav a {
